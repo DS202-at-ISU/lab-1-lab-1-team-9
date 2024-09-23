@@ -49,5 +49,5 @@ Experience
  • Built statistical models and implemented supervised machine learning algorithms from CSV files using NumPy,
  Scikit-Learn, and Statsmodels, achieving a 33% accuracy with the initial prediction model
 
- End of my Experience.
+ End of my Experience. 
  ----------------------------------------------------------------------------------------------------------------------------------------------
