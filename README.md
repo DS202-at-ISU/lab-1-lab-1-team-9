@@ -72,11 +72,6 @@ I refreshed the GitHub repository in my browser and confirmed that my
 changes appeared online as expected. The changes were reflected in the
 `README.md` file, and the commit history showed the correct message.
 
-### 7. Clean Up
-
-My professor instructed us not to delete the local repository, so no
-cleanup was performed for this step.
-
 # Meghasyam Peddireddy
 
 This line is from R- Studio
