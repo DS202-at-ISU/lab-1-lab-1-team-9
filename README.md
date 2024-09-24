@@ -27,11 +27,50 @@ will’s testing
 | Experience Ames, IA May 2026 Ankeny, IA May 2023 Honors Research Assistant– ML Security Research Iowa State University January 2024– Present Ames, IA • Explored methods to attack machine learning models on LIDAR technology using Python, Colab, and MeshLab • Analyzed deep-learning processes and developed projects to exploit vulnerabilities during learning-time and decision-time • Conducted LIDAR research initiatives utilizing Python, Google Colab, MeshLab, and NumPy to derive actionable insights on 100+ plot files (.plt) Data Science Internship Presidential Campaign December 2023– January 2024 Des Moines, IA • Cleaned and pre-processed data from 3 Census and Polling Excel Sheets using Python, Pandas, and Jupyter Notebook, allowing the team to have a neat and organized analysis • Formulated 20+ insightful data visualizations to compare various data categories using Matplotlib • Built statistical models and implemented supervised machine learning algorithms from CSV files using NumPy, Scikit-Learn, and Statsmodels, achieving a 33% accuracy with the initial prediction model |
 | End of my Experience.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-**Umesh Sai Teja Poola**
+# **Umesh Sai Teja Poola**
 
-This is a line from RStudio
+# My Experience with Chapter 12
 
+This is my experience following the steps from Chapter 12 in *Happy Git
+and GitHub for the useR*.
 
-**Meghasyam Peddireddy**
+### 1. Prerequisites
 
-This is a line from RStudio
+All prerequisites were set up correctly. I had already created a GitHub
+account, installed/updated R, RStudio, and Git. I also confirmed that I
+could push and pull from GitHub via the command line without any issues.
+
+### 2. Make a Repository on GitHub
+
+I was able to create a new GitHub repository without any issues. The
+repository was named and initialized with a README file, and everything
+worked smoothly.
+
+### 3. Clone the Test GitHub Repository to Your Computer via RStudio
+
+The cloning process went smoothly. I opened RStudio, went to
+`File > New Project > Version Control > Git`, pasted the repository URL,
+and created the project without any issues.
+
+### 4. Make Local Changes, Save, and Commit
+
+I modified the `README.md` file in RStudio by adding a new line, saved
+the file, and committed the changes. The process of staging, committing,
+and writing a commit message went smoothly.
+
+### 5. Push Your Local Changes Online to GitHub
+
+The push operation worked without any challenges. Authentication was
+smooth, and I was able to push my local changes to the remote GitHub
+repository without any issues.
+
+### 6. Confirm the Local Change Propagated to the GitHub Remote
+
+I refreshed the GitHub repository in my browser and confirmed that my
+changes appeared online as expected. The changes were reflected in the
+`README.md` file, and the commit history showed the correct message.
+
+### 7. Clean Up
+
+My professor instructed us not to delete the local repository, so no
+cleanup was performed for this step.
