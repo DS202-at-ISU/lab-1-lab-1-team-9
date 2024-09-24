@@ -76,3 +76,47 @@ changes appeared online as expected. The changes were reflected in the
 
 My professor instructed us not to delete the local repository, so no
 cleanup was performed for this step.
+
+# Meghasyam Peddireddy
+
+This line is from R- Studio
+
+# My Experience with Chapter 12
+
+This is my experience following the steps from Chapter 12 in *Happy Git
+and GitHub for the useR*.
+
+### 1. Prerequisites
+
+All prerequisites were set up correctly. I had already created a GitHub
+account, installed/updated R, RStudio, and Git. I also confirmed that I
+could push and pull from GitHub via the command line without any issues.
+
+### 2. Make a Repository on GitHub
+
+I joined a repository created by my teammate without any issues.
+Everything worked smoothly, and the repository was properly set up.
+
+### 3. Clone the Test GitHub Repository to Your Computer via RStudio
+
+The cloning process went smoothly. I opened RStudio, went to
+`File > New Project > Version Control > Git`, pasted the repository URL,
+and created the project without any issues.
+
+### 4. Make Local Changes, Save, and Commit
+
+I modified the `README.md` file in RStudio by adding a new line, saved
+the file, and committed the changes. The process of staging, committing,
+and writing a commit message went smoothly.
+
+### 5. Push Your Local Changes Online to GitHub
+
+The push operation worked without any challenges. Authentication was
+smooth, and I was able to push my local changes to the remote GitHub
+repository without any issues.
+
+### 6. Confirm the Local Change Propagated to the GitHub Remote
+
+I refreshed the GitHub repository in my browser and confirmed that my
+changes appeared online as expected. The changes were reflected in the
+`README.md` file, and the commit history showed the correct message.
